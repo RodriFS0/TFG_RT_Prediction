@@ -275,4 +275,4 @@ RodriFS0
 
 ## License
 
-No license has been specified for this repository.
+MIT License.
